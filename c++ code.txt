@@ -1,0 +1,17 @@
+#include<bits/stdc++.h>
+#include <iostream>
+using namespace std;
+#define ll long long int
+#define sc(a) scanf("%lld", &a)
+#define scs(a) scanf("%s", a)
+#define prs(a) printf("%s", a)
+#define prsl(a) printf("%s\n", a)
+#define pr(a) printf("%lld ", a)
+#define prl(a) printf("%lld\n", a)
+#define rep(i, a, b) for(i=a; i<b; i++)
+#define ren(i, a, b) for(i=a; i>=b; i--)
+int main() {
+	// your code goes here
+	return 0;
+}
+/*0010536232*/
